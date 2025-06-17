@@ -10,7 +10,7 @@ This binary classification project covers the entire workflow:
 
 - 📊 Data Exploration and Preprocessing
 - 🧮 Label Counting and Weighted Loss Handling
-- 🧱 CNN Model Definition using DenseNet
+- 🧱 Model Definition using DenseNet
 - 🏋️ Model Training and Evaluation
 - 📈 Accuracy Metrics and Confusion Matrix
 - 📦 Model Saving/Loading and Inference
